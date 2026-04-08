@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pizzaria Bella Itália - Menu</title>
+    <title>Pizzaria Bella Italia</title>
     <style>
         :root {
             --primary: #e74c3c;
