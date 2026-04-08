@@ -96,8 +96,8 @@
             vertical-align: middle;
         }
     </style>
-</head>
-<body>
+</head> <!-- Fechamento correto do HEAD aqui -->
+<body> <!-- Início correto do BODY aqui -->
 
     <header>
         <h1>Bella Itália</h1>
