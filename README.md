@@ -21,7 +21,6 @@
         }
 
         header {
-            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://unsplash.com');
             background-size: cover;
             background-position: center;
             text-align: center;
